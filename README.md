@@ -4,7 +4,7 @@
 
 CCA-YOLOv12 is a modified YOLOv12 object detector built on the local Ultralytics codebase. Its backbone integrates Coordinate Attention through three `C2f_CA` blocks at the P3, P4, and P5 stages to explore spatially aware feature extraction for object detection.
 
-- **Code:** [GitHub repository](https://github.com/mluu59990-collab/Yolov12_backbone_modify)
+- **Code:** [GitHub repository](https://github.com/val-utehy/CCA-YOLOv12.git)
 - **Dataset:** [Google Drive folder](https://drive.google.com/drive/folders/15Kb_uhkGJDsftOMYpr5kEPHsRrTFoeQW?usp=drive_link)
 - **Trained weights:** [Google Drive folder](https://drive.google.com/drive/folders/1z09GaK8xI3r7twpU2KEiNnxa73jHgDu8?usp=drive_link)
 
